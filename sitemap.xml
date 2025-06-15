@@ -3,5 +3,6 @@
   <url>
     <loc>https://liquipedia.pro/player/bets</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
